@@ -1,0 +1,13 @@
+body{
+    margin: 0 ;
+    background-color: #2d3436;
+}
+.container{
+    height: 100vh;
+    border: 1px solid salmon;
+}
+.box{
+    width: 120px;
+    height: 80px;
+    background-color: yellowgreen;
+}
